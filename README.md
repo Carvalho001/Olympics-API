@@ -16,6 +16,10 @@
   ##### Read the Documentation
 
   ###### [Documentation Link](https://documenter.getpostman.com/view/16817790/UVJhDuwh)
+  
+#### Step 3
+
+  ##### Choose a project or a plataform like [Postman](https://www.postman.com/) to consume the API
 
 ## 
 
